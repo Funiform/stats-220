@@ -1,1 +1,1 @@
-# stats-220
+# A little bit about Funiform
