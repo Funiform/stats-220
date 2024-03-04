@@ -13,5 +13,6 @@ There are many grades or scales for model kits based on their difficulty in buil
 * a Hobby cutter or a nipper
 * an X-Acto knife
 * a form of sandpaper
+
 The first bullet point is used to cut the parts from the runners, and the last two bullet points are used to clean up the surface after cutting the parts from the runners.
 There is also a *[video](https://www.youtube.com/watch?v=Idm7mt98enM&ab_channel=YouSeeGundam)* for anyone who wants to know more about model kit building :).
